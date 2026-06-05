@@ -29,9 +29,9 @@ UID:01_0117_20260611_659_522@marca.com
 DTSTAMP:20260611T190000Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY;CHARSET=UTF-8:🇲🇽 México vs 🇿🇦 Sudáfrica | Marca Mundial 2026
+SUMMARY;CHARSET=UTF-8:🇺🇸 EEUU vs 🇺🇸 EEUU | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html
+URL;VALUE=URI:https://www.marca.com/futbol/estoespruebadedirecto.html
 LOCATION:Mexico City Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M

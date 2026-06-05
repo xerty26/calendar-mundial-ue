@@ -136,7 +136,7 @@ async function actualizarCalendarioFisico() {
 
     const outputFile = path.join(path.resolve(), `public/calendar.ics`);
     
-    await fs.writeFile(outputFile, icsContenido, 'utf-8');
+    await fs.writeFile(outputFile, '\ufeff' + icsContenido, 'utf-8');
     console.log(`[${new Date().toISOString()}] ¡Calendario actualizado con éxito en el archivo ${outputFile}!`);
 
     console.log('🔄 Sincronizando con GitHub...');
@@ -153,3 +153,5 @@ async function actualizarCalendarioFisico() {
 
 // Ejecutar el script
 actualizarCalendarioFisico();
+
+//https://calendar-mundial-ue.vercel.app/calendar.ics

@@ -1,0 +1,15 @@
+{
+    "name": "server-calendar",
+    "version": "1.0.0",
+    "main": "cron-update.js",
+    "scripts": {
+        "start": "node cron-update.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "Calendario dinámico para el Mundial",
+    "dependencies": {
+        "simple-git": "^3.36.0",
+        "ssh2-sftp-client": "^12.1.1"
+    }
+}

@@ -110,7 +110,8 @@ async function actualizarCalendarioFisico() {
 
         // 3. Inyección de los partidos de la API
         partidosNormalizados.forEach(partido => {
-            const summary = `${partido.homeTeamFlag} ${partido.homeTeamName} vs ${partido.awayTeamFlag} ${partido.awayTeamName} | Marca Mundial 2026`;
+            //const summary = `${partido.homeTeamFlag} ${partido.homeTeamName} vs ${partido.awayTeamFlag} ${partido.awayTeamName} | Marca Mundial 2026`;
+            const summary = `${partido.homeTeamName} vs ${partido.awayTeamName} | Marca Mundial 2026`;
             icsContenido += [
                 "BEGIN:VEVENT",
                 `UID:${partido.id}@marca.com`,

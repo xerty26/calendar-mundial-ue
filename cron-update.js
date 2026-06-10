@@ -117,7 +117,7 @@ async function actualizarCalendarioFisico() {
                 `DTSTAMP:${partido.inicio}`,
                 `DTSTART:${partido.inicio}`,
                 `DTEND:${partido.fin}`,
-                `SUMMARY;CHARSET=UTF-8:${summary}`,
+                `SUMMARY:${summary}`,
                 `DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: ${partido.urlDirecto}`,
                 `URL;VALUE=URI:${partido.urlDirecto}`,
                 `LOCATION:${partido.location}`,

@@ -132,7 +132,7 @@ async function actualizarCalendarioFisico() {
         icsContenido += "END:VCALENDAR";
 
         const outputFile = path.join(path.resolve(), `public/calendar.ics`);
-        fsSync.writeFileSync(outputFile, '\ufeff' + icsContenido, 'utf-8');
+        fsSync.writeFileSync(outputFile, icsContenido, 'utf-8');
         console.log(`[${new Date().toISOString()}] ¡Calendario actualizado con éxito en el archivo ${outputFile}!`);
 
         

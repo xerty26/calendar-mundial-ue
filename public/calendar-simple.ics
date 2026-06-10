@@ -3,7 +3,6 @@ VERSION:2.0
 PRODID:-//Marca//Test//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-
 BEGIN:VEVENT
 UID:test@marca.com
 DTSTAMP:20260611T120000Z
@@ -12,7 +11,6 @@ DTEND:20260611T210000Z
 SUMMARY:🇲🇽 Mexico vs 🇿🇦 Sudafrica | Marca Mundial 2026
 DESCRIPTION:Partido de prueba
 END:VEVENT
-
 BEGIN:VEVENT
 UID:01_0117_20260612_1041_367@marca.com
 DTSTAMP:20260612T020000Z
@@ -20,7 +18,4 @@ DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:🇰🇷 Corea del Sur vs 🇨🇿 República Checa | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html
-LOCATION:Estadio Guadalajara
-
 END:VCALENDAR

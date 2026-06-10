@@ -12,10 +12,18 @@ SUMMARY:🇲🇽 Mexico vs 🇿🇦 Sudafrica | Marca Mundial 2026
 DESCRIPTION:Partido de prueba
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260612_1041_367@marca.com
-DTSTAMP:20260612T020000Z
-DTSTART:20260612T020000Z
-DTEND:20260612T040000Z
-SUMMARY:🇲🇽 Mexico vs 🇿🇦 Sudafrica | Marca Mundial 2026
-DESCRIPTION:Partido de prueba
+UID:01_0117_20260613_614_1057@marca.com
+DTSTAMP:20260613T220000Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:🇧🇷 Brasil vs 🇲🇦 Marruecos | Marca Mundial 2026
+DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial.html
+LOCATION:New York New Jersey Stadium
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio de Partido
+END:VALARM
+END:VEVENT
 END:VCALENDAR

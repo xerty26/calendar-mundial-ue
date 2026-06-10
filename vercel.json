@@ -1,0 +1,17 @@
+{
+    "headers": [
+        {
+            "source": "/calendar.ics",
+            "headers": [
+                {
+                    "key": "Content-Type",
+                    "value": "text/calendar; charset=utf-8"
+                },
+                {
+                    "key": "Cache-Control",
+                    "value": "no-cache, no-store, must-revalidate"
+                }
+            ]
+        }
+    ]
+}

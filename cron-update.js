@@ -91,8 +91,9 @@ async function actualizarCalendarioFisico() {
                 awayTeamFlag: diccionarioBanderas[eventMundial.sportEvent.competitors.awayTeam.id] || "🔜",
                 inicio: formatearFechaICS(new Date(eventMundial.startDate)),
                 fin: formatearFechaICS(new Date(new Date(eventMundial.startDate).getTime() + (2 * 60 * 60 * 1000))),
-                urlDirecto: eventMundial.editorialInfo?.url || 'https://www.marca.com/futbol/mundial.html',
+                urlDirecto: eventMundial.editorialInfo?.url || 'https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias',
                 location: eventMundial.sportEvent.location.name,
+                tvChannel: eventMundial.tv?.[0]?.name || 'Marca Mundial 2026'
             }
         });
 
@@ -110,7 +111,7 @@ async function actualizarCalendarioFisico() {
 
         // 3. Inyección de los partidos de la API
         partidosNormalizados.forEach(partido => {
-            const summary = `${partido.homeTeamFlag} ${partido.homeTeamName} vs ${partido.awayTeamFlag} ${partido.awayTeamName} | Marca Mundial 2026`;
+            const summary = `${partido.homeTeamFlag} ${partido.homeTeamName} - ${partido.awayTeamFlag} ${partido.awayTeamName} | ${partido.tvChannel}`;
             icsContenido += [
                 "BEGIN:VEVENT",
                 `UID:${partido.id}@marca.com`,

@@ -11,9 +11,9 @@ UID:01_0117_20260611_659_522@marca.com
 DTSTAMP:20260611T190000Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:🇲🇽 México - 🇿🇦 Sudáfrica | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇲🇽 México 2-0 🇿🇦 Sudáfrica
+DESCRIPTION:🏆 🇲🇽 México revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/11/mexico-bailar-azteca-buen-triunfo-inicio-mundial.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/11/mexico-bailar-azteca-buen-triunfo-inicio-mundial.html
 LOCATION:Mexico City Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -26,9 +26,9 @@ UID:01_0117_20260612_1041_367@marca.com
 DTSTAMP:20260612T020000Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:🇰🇷 Corea del Sur - 🇨🇿 República Checa | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇰🇷 Corea del Sur 2-1 🇨🇿 República Checa
+DESCRIPTION:🏆 🇰🇷 Corea del Sur revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/12/corea-sur-tumba-republica-checa-son-in-beom.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/12/corea-sur-tumba-republica-checa-son-in-beom.html
 LOCATION:Estadio Guadalajara
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -371,7 +371,7 @@ UID:01_0117_20260618_367_522@marca.com
 DTSTAMP:20260618T160000Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-SUMMARY:🇨🇿 República Checa - 🇿🇦 Sudáfrica | Marca Mundial 2026
+SUMMARY:🇨🇿 República Checa - 🇿🇦 Sudáfrica | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium
@@ -386,7 +386,7 @@ UID:01_0117_20260618_497_537@marca.com
 DTSTAMP:20260618T190000Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-SUMMARY:🇨🇭 Suiza - 🇧🇦 Bosnia Herzegovina | Marca Mundial 2026
+SUMMARY:🇨🇭 Suiza - 🇧🇦 Bosnia Herzegovina | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Los Angeles Stadium
@@ -401,7 +401,7 @@ UID:01_0117_20260618_597_1873@marca.com
 DTSTAMP:20260618T220000Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-SUMMARY:🇨🇦 Canada - 🇶🇦 Qatar | Marca Mundial 2026
+SUMMARY:🇨🇦 Canada - 🇶🇦 Qatar | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:BC Place Vancouver
@@ -416,7 +416,7 @@ UID:01_0117_20260619_659_1041@marca.com
 DTSTAMP:20260619T010000Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-SUMMARY:🇲🇽 México - 🇰🇷 Corea del Sur | Marca Mundial 2026
+SUMMARY:🇲🇽 México - 🇰🇷 Corea del Sur | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Estadio Guadalajara
@@ -431,7 +431,7 @@ UID:01_0117_20260619_596_575@marca.com
 DTSTAMP:20260619T190000Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-SUMMARY:🇺🇸 Estados Unidos - 🇦🇺 Australia | Marca Mundial 2026
+SUMMARY:🇺🇸 Estados Unidos - 🇦🇺 Australia | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Seattle Stadium
@@ -446,7 +446,7 @@ UID:01_0117_20260619_115_1057@marca.com
 DTSTAMP:20260619T220000Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia - 🇲🇦 Marruecos | Marca Mundial 2026
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia - 🇲🇦 Marruecos | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Boston Stadium
@@ -461,7 +461,7 @@ UID:01_0117_20260620_614_1327@marca.com
 DTSTAMP:20260620T003000Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-SUMMARY:🇧🇷 Brasil - 🇭🇹 Haití | Marca Mundial 2026
+SUMMARY:🇧🇷 Brasil - 🇭🇹 Haití | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Philadelphia Stadium
@@ -476,7 +476,7 @@ UID:01_0117_20260620_362_835@marca.com
 DTSTAMP:20260620T030000Z
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-SUMMARY:🇹🇷 Turquía - 🇵🇾 Paraguay | Marca Mundial 2026
+SUMMARY:🇹🇷 Turquía - 🇵🇾 Paraguay | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:San Francisco Bay Area Stadium
@@ -491,7 +491,7 @@ UID:01_0117_20260620_366_361@marca.com
 DTSTAMP:20260620T170000Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-SUMMARY:🇳🇱 Países Bajos - 🇸🇪 Suecia | Marca Mundial 2026
+SUMMARY:🇳🇱 Países Bajos - 🇸🇪 Suecia | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Houston Stadium
@@ -506,7 +506,7 @@ UID:01_0117_20260620_357_1221@marca.com
 DTSTAMP:20260620T200000Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-SUMMARY:🇩🇪 Alemania - 🇨🇮 Costa de Marfil | Marca Mundial 2026
+SUMMARY:🇩🇪 Alemania - 🇨🇮 Costa de Marfil | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Toronto Stadium
@@ -521,7 +521,7 @@ UID:01_0117_20260621_830_6512@marca.com
 DTSTAMP:20260621T000000Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-SUMMARY:🇪🇨 Ecuador - 🇨🇼 Curaçao | Marca Mundial 2026
+SUMMARY:🇪🇨 Ecuador - 🇨🇼 Curaçao | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Kansas City Stadium
@@ -536,7 +536,7 @@ UID:01_0117_20260621_1224_1266@marca.com
 DTSTAMP:20260621T040000Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-SUMMARY:🇹🇳 Túnez - 🇯🇵 Japón | Marca Mundial 2026
+SUMMARY:🇹🇳 Túnez - 🇯🇵 Japón | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Estadio Monterrey
@@ -551,7 +551,7 @@ UID:01_0117_20260621_118_1264@marca.com
 DTSTAMP:20260621T160000Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-SUMMARY:🇪🇸 España - 🇸🇦 Arabia Saudí | Marca Mundial 2026
+SUMMARY:🇪🇸 España - 🇸🇦 Arabia Saudí | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium
@@ -566,7 +566,7 @@ UID:01_0117_20260621_360_1042@marca.com
 DTSTAMP:20260621T190000Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-SUMMARY:🇧🇪 Bélgica - 🇮🇷 Irán | Marca Mundial 2026
+SUMMARY:🇧🇪 Bélgica - 🇮🇷 Irán | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Los Angeles Stadium
@@ -581,7 +581,7 @@ UID:01_0117_20260621_837_1529@marca.com
 DTSTAMP:20260621T220000Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-SUMMARY:🇺🇾 Uruguay - 🇨🇻 Cabo Verde | Marca Mundial 2026
+SUMMARY:🇺🇾 Uruguay - 🇨🇻 Cabo Verde | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium
@@ -596,7 +596,7 @@ UID:01_0117_20260622_1804_1225@marca.com
 DTSTAMP:20260622T010000Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-SUMMARY:🇳🇿 Nueva Zelanda - 🇪🇬 Egipto | Marca Mundial 2026
+SUMMARY:🇳🇿 Nueva Zelanda - 🇪🇬 Egipto | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:BC Place Vancouver
@@ -611,7 +611,7 @@ UID:01_0117_20260622_632_515@marca.com
 DTSTAMP:20260622T170000Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-SUMMARY:🇦🇷 Argentina - 🇦🇹 Austria | Marca Mundial 2026
+SUMMARY:🇦🇷 Argentina - 🇦🇹 Austria | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Dallas Stadium
@@ -626,7 +626,7 @@ UID:01_0117_20260622_368_1800@marca.com
 DTSTAMP:20260622T210000Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-SUMMARY:🇫🇷 Francia - 🇮🇶 Iraq | Marca Mundial 2026
+SUMMARY:🇫🇷 Francia - 🇮🇶 Iraq | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Philadelphia Stadium
@@ -641,7 +641,7 @@ UID:01_0117_20260623_363_1226@marca.com
 DTSTAMP:20260623T000000Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-SUMMARY:🇳🇴 Noruega - 🇸🇳 Senegal | Marca Mundial 2026
+SUMMARY:🇳🇴 Noruega - 🇸🇳 Senegal | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:New York New Jersey Stadium
@@ -656,7 +656,7 @@ UID:01_0117_20260623_1843_1215@marca.com
 DTSTAMP:20260623T030000Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-SUMMARY:🇯🇴 Jordania - 🇩🇿 Argelia | Marca Mundial 2026
+SUMMARY:🇯🇴 Jordania - 🇩🇿 Argelia | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:San Francisco Bay Area Stadium
@@ -671,7 +671,7 @@ UID:01_0117_20260623_359_1359@marca.com
 DTSTAMP:20260623T170000Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-SUMMARY:🇵🇹 Portugal - 🇺🇿 Uzbekistán | Marca Mundial 2026
+SUMMARY:🇵🇹 Portugal - 🇺🇿 Uzbekistán | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Houston Stadium
@@ -686,7 +686,7 @@ UID:01_0117_20260623_114_1219@marca.com
 DTSTAMP:20260623T200000Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇬🇭 Ghana | Marca Mundial 2026
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇬🇭 Ghana | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Boston Stadium
@@ -701,7 +701,7 @@ UID:01_0117_20260623_1869_535@marca.com
 DTSTAMP:20260623T230000Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-SUMMARY:🇵🇦 Panamá - 🇭🇷 Croacia | Marca Mundial 2026
+SUMMARY:🇵🇦 Panamá - 🇭🇷 Croacia | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Toronto Stadium
@@ -716,7 +716,7 @@ UID:01_0117_20260624_832_1222@marca.com
 DTSTAMP:20260624T020000Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-SUMMARY:🇨🇴 Colombia - 🇨🇩 R.D. del Congo | Marca Mundial 2026
+SUMMARY:🇨🇴 Colombia - 🇨🇩 R.D. del Congo | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Estadio Guadalajara
@@ -731,7 +731,7 @@ UID:01_0117_20260624_497_597@marca.com
 DTSTAMP:20260624T190000Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:🇨🇭 Suiza - 🇨🇦 Canada | Marca Mundial 2026
+SUMMARY:🇨🇭 Suiza - 🇨🇦 Canada | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:BC Place Vancouver
@@ -746,7 +746,7 @@ UID:01_0117_20260624_537_1873@marca.com
 DTSTAMP:20260624T190000Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:🇧🇦 Bosnia Herzegovina - 🇶🇦 Qatar | Marca Mundial 2026
+SUMMARY:🇧🇦 Bosnia Herzegovina - 🇶🇦 Qatar | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Seattle Stadium
@@ -761,7 +761,7 @@ UID:01_0117_20260624_115_614@marca.com
 DTSTAMP:20260624T220000Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia - 🇧🇷 Brasil | Marca Mundial 2026
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia - 🇧🇷 Brasil | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium
@@ -776,7 +776,7 @@ UID:01_0117_20260624_1057_1327@marca.com
 DTSTAMP:20260624T220000Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:🇲🇦 Marruecos - 🇭🇹 Haití | Marca Mundial 2026
+SUMMARY:🇲🇦 Marruecos - 🇭🇹 Haití | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium
@@ -791,7 +791,7 @@ UID:01_0117_20260625_522_1041@marca.com
 DTSTAMP:20260625T010000Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:🇿🇦 Sudáfrica - 🇰🇷 Corea del Sur | Marca Mundial 2026
+SUMMARY:🇿🇦 Sudáfrica - 🇰🇷 Corea del Sur | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Estadio Monterrey
@@ -806,7 +806,7 @@ UID:01_0117_20260625_367_659@marca.com
 DTSTAMP:20260625T010000Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:🇨🇿 República Checa - 🇲🇽 México | Marca Mundial 2026
+SUMMARY:🇨🇿 República Checa - 🇲🇽 México | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Mexico City Stadium
@@ -821,7 +821,7 @@ UID:01_0117_20260625_830_357@marca.com
 DTSTAMP:20260625T200000Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:🇪🇨 Ecuador - 🇩🇪 Alemania | Marca Mundial 2026
+SUMMARY:🇪🇨 Ecuador - 🇩🇪 Alemania | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:New York New Jersey Stadium
@@ -836,7 +836,7 @@ UID:01_0117_20260625_6512_1221@marca.com
 DTSTAMP:20260625T200000Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:🇨🇼 Curaçao - 🇨🇮 Costa de Marfil | Marca Mundial 2026
+SUMMARY:🇨🇼 Curaçao - 🇨🇮 Costa de Marfil | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Philadelphia Stadium
@@ -851,7 +851,7 @@ UID:01_0117_20260625_1224_366@marca.com
 DTSTAMP:20260625T230000Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:🇹🇳 Túnez - 🇳🇱 Países Bajos | Marca Mundial 2026
+SUMMARY:🇹🇳 Túnez - 🇳🇱 Países Bajos | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Kansas City Stadium
@@ -866,7 +866,7 @@ UID:01_0117_20260625_1266_361@marca.com
 DTSTAMP:20260625T230000Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:🇯🇵 Japón - 🇸🇪 Suecia | Marca Mundial 2026
+SUMMARY:🇯🇵 Japón - 🇸🇪 Suecia | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Dallas Stadium
@@ -881,7 +881,7 @@ UID:01_0117_20260626_362_596@marca.com
 DTSTAMP:20260626T020000Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:🇹🇷 Turquía - 🇺🇸 Estados Unidos | Marca Mundial 2026
+SUMMARY:🇹🇷 Turquía - 🇺🇸 Estados Unidos | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Los Angeles Stadium
@@ -896,7 +896,7 @@ UID:01_0117_20260626_835_575@marca.com
 DTSTAMP:20260626T020000Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:🇵🇾 Paraguay - 🇦🇺 Australia | Marca Mundial 2026
+SUMMARY:🇵🇾 Paraguay - 🇦🇺 Australia | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:San Francisco Bay Area Stadium
@@ -911,7 +911,7 @@ UID:01_0117_20260626_1226_1800@marca.com
 DTSTAMP:20260626T190000Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:🇸🇳 Senegal - 🇮🇶 Iraq | Marca Mundial 2026
+SUMMARY:🇸🇳 Senegal - 🇮🇶 Iraq | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Toronto Stadium
@@ -926,7 +926,7 @@ UID:01_0117_20260626_363_368@marca.com
 DTSTAMP:20260626T190000Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:🇳🇴 Noruega - 🇫🇷 Francia | Marca Mundial 2026
+SUMMARY:🇳🇴 Noruega - 🇫🇷 Francia | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Boston Stadium
@@ -941,7 +941,7 @@ UID:01_0117_20260627_837_118@marca.com
 DTSTAMP:20260627T000000Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:🇺🇾 Uruguay - 🇪🇸 España | Marca Mundial 2026
+SUMMARY:🇺🇾 Uruguay - 🇪🇸 España | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Estadio Guadalajara
@@ -956,7 +956,7 @@ UID:01_0117_20260627_1529_1264@marca.com
 DTSTAMP:20260627T000000Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:🇨🇻 Cabo Verde - 🇸🇦 Arabia Saudí | Marca Mundial 2026
+SUMMARY:🇨🇻 Cabo Verde - 🇸🇦 Arabia Saudí | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Houston Stadium
@@ -971,7 +971,7 @@ UID:01_0117_20260627_1804_360@marca.com
 DTSTAMP:20260627T030000Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:🇳🇿 Nueva Zelanda - 🇧🇪 Bélgica | Marca Mundial 2026
+SUMMARY:🇳🇿 Nueva Zelanda - 🇧🇪 Bélgica | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:BC Place Vancouver
@@ -986,7 +986,7 @@ UID:01_0117_20260627_1225_1042@marca.com
 DTSTAMP:20260627T030000Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:🇪🇬 Egipto - 🇮🇷 Irán | Marca Mundial 2026
+SUMMARY:🇪🇬 Egipto - 🇮🇷 Irán | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Seattle Stadium
@@ -1001,7 +1001,7 @@ UID:01_0117_20260627_1869_114@marca.com
 DTSTAMP:20260627T210000Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:🇵🇦 Panamá - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Marca Mundial 2026
+SUMMARY:🇵🇦 Panamá - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:New York New Jersey Stadium
@@ -1016,7 +1016,7 @@ UID:01_0117_20260627_535_1219@marca.com
 DTSTAMP:20260627T210000Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:🇭🇷 Croacia - 🇬🇭 Ghana | Marca Mundial 2026
+SUMMARY:🇭🇷 Croacia - 🇬🇭 Ghana | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Philadelphia Stadium
@@ -1031,7 +1031,7 @@ UID:01_0117_20260627_1222_1359@marca.com
 DTSTAMP:20260627T233000Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:🇨🇩 R.D. del Congo - 🇺🇿 Uzbekistán | Marca Mundial 2026
+SUMMARY:🇨🇩 R.D. del Congo - 🇺🇿 Uzbekistán | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium
@@ -1046,7 +1046,7 @@ UID:01_0117_20260627_832_359@marca.com
 DTSTAMP:20260627T233000Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:🇨🇴 Colombia - 🇵🇹 Portugal | Marca Mundial 2026
+SUMMARY:🇨🇴 Colombia - 🇵🇹 Portugal | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium
@@ -1061,7 +1061,7 @@ UID:01_0117_20260628_1843_632@marca.com
 DTSTAMP:20260628T020000Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SUMMARY:🇯🇴 Jordania - 🇦🇷 Argentina | Marca Mundial 2026
+SUMMARY:🇯🇴 Jordania - 🇦🇷 Argentina | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Dallas Stadium
@@ -1076,7 +1076,7 @@ UID:01_0117_20260628_1215_515@marca.com
 DTSTAMP:20260628T020000Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SUMMARY:🇩🇿 Argelia - 🇦🇹 Austria | Marca Mundial 2026
+SUMMARY:🇩🇿 Argelia - 🇦🇹 Austria | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Kansas City Stadium

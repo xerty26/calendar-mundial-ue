@@ -70,10 +70,40 @@ function formatearFechaICS(objetoDate) {
         .split(".")[0] + "Z";
 }
 
+function getUrlDirectoRedirect(eventMundial) {
+    const urlNotices = 'https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias';
+    const otherUrls = eventMundial?.editorialInfo?.otherUrls || [];
+    let urlLiveEditorial = '';
+
+    if(eventMundial.sportEvent?.status?.id === 2) {
+        urlLiveEditorial = otherUrls.find(url => url.tag === 'cronica') || eventMundial?.editorialInfo
+    } else {
+        urlLiveEditorial = otherUrls.find(url => url.tag === 'directo') || otherUrls.find(url => url.tag === 'cronica');
+    }
+    
+    return urlLiveEditorial?.url || urlNotices;
+}
+
+function getSummary(partido) {
+    if (partido.statusId === 2) {
+        return `${partido.homeTeamFlag} ${partido.homeTeamName} ${partido.hometeamGoals}-${partido.awayTeamGoals} ${partido.awayTeamFlag} ${partido.awayTeamName}`;
+    }
+
+    return `${partido.homeTeamFlag} ${partido.homeTeamName} - ${partido.awayTeamFlag} ${partido.awayTeamName} | ${partido.tvChannel}`;
+}
+
+function getDescription(partido) {
+    if (partido.statusId === 2) {
+        return `🏆 ${diccionarioBanderas[partido.winnerTeam.id]} ${partido.winnerTeam.name} revisa las estadísticas en MARCA: ${partido.urlDirectoRedirect}`;
+    }
+
+    return `Sigue la narración en directo y el minuto a minuto en MARCA: ${partido.urlDirectoRedirect}`;
+}
+
 // ==========================================
-// LOGICA PRINCIPAL DEL SCRIPT
+// INIT CRON
 // ==========================================
-async function actualizarCalendarioFisico() {
+async function syncCalendar() {
     try {
         console.log('1. Consultando API de Deportes...');
         const partidosAPI = await consultaJson(jsonUrl);
@@ -84,6 +114,8 @@ async function actualizarCalendarioFisico() {
                 homeTeamAbb: eventMundial.sportEvent.competitors.homeTeam.abbName,
                 homeTeamName: eventMundial.sportEvent.competitors.homeTeam.commonName,
                 homeTeamFlag: diccionarioBanderas[eventMundial.sportEvent.competitors.homeTeam.id] || "🔜",
+                hometeamGoals: eventMundial.sportEvent?.status?.id === 2 ? eventMundial.score?.homeTeam?.totalScore : '',
+                awayTeamGoals: eventMundial.sportEvent?.status?.id === 2 ? eventMundial.score?.awayTeam?.totalScore : '',
                 awayTeam: eventMundial.sportEvent.competitors.awayTeam.name,
                 awayTeamId: eventMundial.sportEvent.competitors.awayTeam.id,
                 awayTeamAbb: eventMundial.sportEvent.competitors.awayTeam.abbName,
@@ -91,9 +123,11 @@ async function actualizarCalendarioFisico() {
                 awayTeamFlag: diccionarioBanderas[eventMundial.sportEvent.competitors.awayTeam.id] || "🔜",
                 inicio: formatearFechaICS(new Date(eventMundial.startDate)),
                 fin: formatearFechaICS(new Date(new Date(eventMundial.startDate).getTime() + (2 * 60 * 60 * 1000))),
-                urlDirecto: eventMundial.editorialInfo?.url || 'https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias',
-                location: eventMundial.sportEvent.location.name,
-                tvChannel: eventMundial.tv?.[0]?.name || 'Marca Mundial 2026'
+                urlDirectoRedirect: getUrlDirectoRedirect(eventMundial),
+                location: eventMundial.sportEvent?.location?.name || 'Localización no disponible',
+                tvChannel: eventMundial.tv?.[0]?.name || 'Marca Mundial 2026',
+                statusId: eventMundial.sportEvent?.status?.id || 0,
+                winnerTeam: eventMundial.sportEvent?.status?.id === 2 ? eventMundial.score?.winner : ''
             }
         });
 
@@ -111,16 +145,15 @@ async function actualizarCalendarioFisico() {
 
         // 3. Inyección de los partidos de la API
         partidosNormalizados.forEach(partido => {
-            const summary = `${partido.homeTeamFlag} ${partido.homeTeamName} - ${partido.awayTeamFlag} ${partido.awayTeamName} | ${partido.tvChannel}`;
             icsContenido += [
                 "BEGIN:VEVENT",
                 `UID:${partido.id}@marca.com`,
                 `DTSTAMP:${partido.inicio}`,
                 `DTSTART:${partido.inicio}`,
                 `DTEND:${partido.fin}`,
-                `SUMMARY:${summary}`,
-                `DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: ${partido.urlDirecto}`,
-                `URL;VALUE=URI:${partido.urlDirecto}`,
+                `SUMMARY:${getSummary(partido)}`,
+                `DESCRIPTION:${getDescription(partido)}`,
+                `URL;VALUE=URI:${partido.urlDirectoRedirect}`,
                 `LOCATION:${partido.location}`,
                 "BEGIN:VALARM",
                 "TRIGGER:-PT15M",
@@ -138,15 +171,15 @@ async function actualizarCalendarioFisico() {
 
         
         // TODO: Cambiar por el cron
-        // console.log('🔄 Sincronizando con GitHub...');
-        // await git.add(outputFile);
-        // await git.commit(`Automated calendar update: ${new Date().toISOString()}`);
-        // await git.push('origin', 'main');
-        // console.log('🚀 ¡Cambio enviado a GitHub!');
+        console.log('🔄 Sincronizando con GitHub...');
+        await git.add(outputFile);
+        await git.commit(`Automated calendar update: ${new Date().toISOString()}`);
+        await git.push('origin', 'main');
+        console.log('🚀 ¡Cambio enviado a GitHub!');
 
     } catch (error) {
         console.error("❌ Error en el proceso:", error);
     }
 }
 
-actualizarCalendarioFisico();
+syncCalendar();

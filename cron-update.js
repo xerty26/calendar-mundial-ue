@@ -181,4 +181,4 @@ async function syncCalendar() {
     }
 }
 
-export default syncCalendar;
+syncCalendar();

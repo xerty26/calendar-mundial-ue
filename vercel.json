@@ -24,7 +24,7 @@
     ],
     "crons": [
         {
-            "path": "api-update",
+            "path": "/api-update",
             "schedule": "*/15 * * * *"
         }
     ]

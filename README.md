@@ -4,7 +4,7 @@ Generador automático de un calendario [iCalendar](https://icalendar.org/) (`.ic
 
 ## ¿Qué hace?
 
-El script `cron-update.js`:
+El script `cron-update.js`: 
 
 1. Consulta la API de partidos de MARCA.
 2. Normaliza cada evento (equipos, banderas, fechas, sede y enlace al directo).

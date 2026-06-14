@@ -41,9 +41,9 @@ UID:01_0117_20260612_597_537@marca.com
 DTSTAMP:20260612T190000Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:🇨🇦 Canada - 🇧🇦 Bosnia Herzegovina | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇨🇦 Canada 1-1 🇧🇦 Bosnia Herzegovina
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/12/canada-sumar-futbol.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/12/canada-sumar-futbol.html
 LOCATION:Toronto Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -56,9 +56,9 @@ UID:01_0117_20260613_596_835@marca.com
 DTSTAMP:20260613T010000Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-SUMMARY:🇺🇸 Estados Unidos - 🇵🇾 Paraguay | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇺🇸 Estados Unidos 4-1 🇵🇾 Paraguay
+DESCRIPTION:🏆 🇺🇸 Estados Unidos revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/13/showtime-angeles.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/13/showtime-angeles.html
 LOCATION:Los Angeles Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -71,9 +71,9 @@ UID:01_0117_20260613_1873_497@marca.com
 DTSTAMP:20260613T190000Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-SUMMARY:🇶🇦 Qatar - 🇨🇭 Suiza | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇶🇦 Qatar 1-1 🇨🇭 Suiza
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/13/muralla-lopetegui-suficiente-frenar-acoso-suiza.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/13/muralla-lopetegui-suficiente-frenar-acoso-suiza.html
 LOCATION:San Francisco Bay Area Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -86,9 +86,9 @@ UID:01_0117_20260613_614_1057@marca.com
 DTSTAMP:20260613T220000Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-SUMMARY:🇧🇷 Brasil - 🇲🇦 Marruecos | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇧🇷 Brasil 1-1 🇲🇦 Marruecos
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/14/vini-acude-rescate-canarinha.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/14/vini-acude-rescate-canarinha.html
 LOCATION:New York New Jersey Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -101,9 +101,9 @@ UID:01_0117_20260614_1327_115@marca.com
 DTSTAMP:20260614T010000Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-SUMMARY:🇭🇹 Haití - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇭🇹 Haití 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia
+DESCRIPTION:🏆 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/14/mcginn-sonreir-escocia-combativa-haiti.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/14/mcginn-sonreir-escocia-combativa-haiti.html
 LOCATION:Boston Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -116,9 +116,9 @@ UID:01_0117_20260614_575_362@marca.com
 DTSTAMP:20260614T040000Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-SUMMARY:🇦🇺 Australia - 🇹🇷 Turquía | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇦🇺 Australia 2-0 🇹🇷 Turquía
+DESCRIPTION:🏆 🇦🇺 Australia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/14/australia-arda-mundial.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/14/australia-arda-mundial.html
 LOCATION:BC Place Vancouver
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -132,8 +132,8 @@ DTSTAMP:20260614T170000Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:🇩🇪 Alemania - 🇨🇼 Curaçao | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial/alemania-curacao/2026/06/14/01_0117_20260614_357_6512-directo.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/alemania-curacao/2026/06/14/01_0117_20260614_357_6512-directo.html
 LOCATION:Houston Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -147,8 +147,8 @@ DTSTAMP:20260614T200000Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:🇳🇱 Países Bajos - 🇯🇵 Japón | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial/paises-bajos-japon/2026/06/14/01_0117_20260614_366_1266-directo.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/paises-bajos-japon/2026/06/14/01_0117_20260614_366_1266-directo.html
 LOCATION:Dallas Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M

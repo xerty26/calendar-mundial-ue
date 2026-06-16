@@ -131,9 +131,9 @@ UID:01_0117_20260614_357_6512@marca.com
 DTSTAMP:20260614T170000Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-SUMMARY:🇩🇪 Alemania - 🇨🇼 Curaçao | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial/alemania-curacao/2026/06/14/01_0117_20260614_357_6512-directo.html
-URL;VALUE=URI:https://www.marca.com/futbol/mundial/alemania-curacao/2026/06/14/01_0117_20260614_357_6512-directo.html
+SUMMARY:🇩🇪 Alemania 7-1 🇨🇼 Curaçao
+DESCRIPTION:🏆 🇩🇪 Alemania revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/14/alemania-sofoca-contundencia-pequena-rebelion-curazao.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/14/alemania-sofoca-contundencia-pequena-rebelion-curazao.html
 LOCATION:Houston Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -146,9 +146,9 @@ UID:01_0117_20260614_366_1266@marca.com
 DTSTAMP:20260614T200000Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-SUMMARY:🇳🇱 Países Bajos - 🇯🇵 Japón | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial/paises-bajos-japon/2026/06/14/01_0117_20260614_366_1266-directo.html
-URL;VALUE=URI:https://www.marca.com/futbol/mundial/paises-bajos-japon/2026/06/14/01_0117_20260614_366_1266-directo.html
+SUMMARY:🇳🇱 Países Bajos 2-2 🇯🇵 Japón
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/15/paises-bajos-sigue-vencer-miedos.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/15/paises-bajos-sigue-vencer-miedos.html
 LOCATION:Dallas Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -161,9 +161,9 @@ UID:01_0117_20260614_1221_830@marca.com
 DTSTAMP:20260614T230000Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-SUMMARY:🇨🇮 Costa de Marfil - 🇪🇨 Ecuador | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇨🇮 Costa de Marfil 1-0 🇪🇨 Ecuador
+DESCRIPTION:🏆 🇨🇮 Costa de Marfil revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/15/elefantes-tumban-tri-minima.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/15/elefantes-tumban-tri-minima.html
 LOCATION:Philadelphia Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -176,9 +176,9 @@ UID:01_0117_20260615_361_1224@marca.com
 DTSTAMP:20260615T020000Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-SUMMARY:🇸🇪 Suecia - 🇹🇳 Túnez | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇸🇪 Suecia 5-1 🇹🇳 Túnez
+DESCRIPTION:🏆 🇸🇪 Suecia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/15/manita-suecia-iniciar-sueno-americano.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/15/manita-suecia-iniciar-sueno-americano.html
 LOCATION:Estadio Monterrey
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -191,9 +191,9 @@ UID:01_0117_20260615_118_1529@marca.com
 DTSTAMP:20260615T160000Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-SUMMARY:🇪🇸 España - 🇨🇻 Cabo Verde | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇪🇸 España 0-0 🇨🇻 Cabo Verde
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/15/desastre-empezar.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/15/desastre-empezar.html
 LOCATION:Atlanta Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -206,9 +206,9 @@ UID:01_0117_20260615_360_1225@marca.com
 DTSTAMP:20260615T190000Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-SUMMARY:🇧🇪 Bélgica - 🇪🇬 Egipto | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇧🇪 Bélgica 1-1 🇪🇬 Egipto
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/15/lukaku-llega.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/15/lukaku-llega.html
 LOCATION:Seattle Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -221,9 +221,9 @@ UID:01_0117_20260615_1264_837@marca.com
 DTSTAMP:20260615T220000Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-SUMMARY:🇸🇦 Arabia Saudí - 🇺🇾 Uruguay | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇸🇦 Arabia Saudí 1-1 🇺🇾 Uruguay
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/16/arabia-saudi-uruguay-resetean-grupo.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/16/arabia-saudi-uruguay-resetean-grupo.html
 LOCATION:Miami Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -236,9 +236,9 @@ UID:01_0117_20260616_1042_1804@marca.com
 DTSTAMP:20260616T010000Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-SUMMARY:🇮🇷 Irán - 🇳🇿 Nueva Zelanda | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇮🇷 Irán 2-2 🇳🇿 Nueva Zelanda
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/16/empate-pelicula.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/16/empate-pelicula.html
 LOCATION:Los Angeles Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M

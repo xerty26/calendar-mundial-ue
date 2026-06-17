@@ -251,9 +251,9 @@ UID:01_0117_20260616_368_1226@marca.com
 DTSTAMP:20260616T190000Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-SUMMARY:🇫🇷 Francia - 🇸🇳 Senegal | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇫🇷 Francia 3-1 🇸🇳 Senegal
+DESCRIPTION:🏆 🇫🇷 Francia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/16/olise-propone-mbappe-dispone.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/16/olise-propone-mbappe-dispone.html
 LOCATION:New York New Jersey Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -266,9 +266,9 @@ UID:01_0117_20260616_1800_363@marca.com
 DTSTAMP:20260616T220000Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-SUMMARY:🇮🇶 Iraq - 🇳🇴 Noruega | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇮🇶 Iraq 1-4 🇳🇴 Noruega
+DESCRIPTION:🏆 🇳🇴 Noruega revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/17/haaland-solucion-doblete-asistencia-ciborg-seguir-estela-francesa.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/17/haaland-solucion-doblete-asistencia-ciborg-seguir-estela-francesa.html
 LOCATION:Boston Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -281,9 +281,9 @@ UID:01_0117_20260617_632_1215@marca.com
 DTSTAMP:20260617T010000Z
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-SUMMARY:🇦🇷 Argentina - 🇩🇿 Argelia | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇦🇷 Argentina 3-0 🇩🇿 Argelia
+DESCRIPTION:🏆 🇦🇷 Argentina revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/17/hat-trick-historico-messi-sonar-argentina-bicampeonato.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/17/hat-trick-historico-messi-sonar-argentina-bicampeonato.html
 LOCATION:Kansas City Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -297,8 +297,8 @@ DTSTAMP:20260617T040000Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:🇦🇹 Austria - 🇯🇴 Jordania | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial/austria-jordania/2026/06/17/01_0117_20260617_515_1843-directo.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/austria-jordania/2026/06/17/01_0117_20260617_515_1843-directo.html
 LOCATION:San Francisco Bay Area Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M

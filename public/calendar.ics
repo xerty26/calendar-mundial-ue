@@ -296,9 +296,9 @@ UID:01_0117_20260617_515_1843@marca.com
 DTSTAMP:20260617T040000Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-SUMMARY:🇦🇹 Austria - 🇯🇴 Jordania | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial/austria-jordania/2026/06/17/01_0117_20260617_515_1843-directo.html
-URL;VALUE=URI:https://www.marca.com/futbol/mundial/austria-jordania/2026/06/17/01_0117_20260617_515_1843-directo.html
+SUMMARY:🇦🇹 Austria 3-1 🇯🇴 Jordania
+DESCRIPTION:🏆 🇦🇹 Austria revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/17/fortuna-sonrie-austria-castiga-jordania.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/17/fortuna-sonrie-austria-castiga-jordania.html
 LOCATION:San Francisco Bay Area Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -311,9 +311,9 @@ UID:01_0117_20260617_359_1222@marca.com
 DTSTAMP:20260617T170000Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-SUMMARY:🇵🇹 Portugal - 🇨🇩 R.D. del Congo | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇵🇹 Portugal 1-1 🇨🇩 R.D. del Congo
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/17/portugal-apunta-lista-decepciones.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/17/portugal-apunta-lista-decepciones.html
 LOCATION:Houston Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -326,9 +326,9 @@ UID:01_0117_20260617_114_535@marca.com
 DTSTAMP:20260617T200000Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇭🇷 Croacia | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 4-2 🇭🇷 Croacia
+DESCRIPTION:🏆 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/18/bellingham-esperando-inglaterra.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/18/bellingham-esperando-inglaterra.html
 LOCATION:Dallas Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -341,9 +341,9 @@ UID:01_0117_20260617_1219_1869@marca.com
 DTSTAMP:20260617T230000Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-SUMMARY:🇬🇭 Ghana - 🇵🇦 Panamá | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇬🇭 Ghana 1-0 🇵🇦 Panamá
+DESCRIPTION:🏆 🇬🇭 Ghana revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/18/yirenkyi-desata-locura-black-stars-descuento.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/18/yirenkyi-desata-locura-black-stars-descuento.html
 LOCATION:Toronto Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -356,9 +356,9 @@ UID:01_0117_20260618_1359_832@marca.com
 DTSTAMP:20260618T020000Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-SUMMARY:🇺🇿 Uzbekistán - 🇨🇴 Colombia | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇺🇿 Uzbekistán 1-3 🇨🇴 Colombia
+DESCRIPTION:🏆 🇨🇴 Colombia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/18/lucho-pocos-lobos.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/18/lucho-pocos-lobos.html
 LOCATION:Mexico City Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1027,21 +1027,6 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260627_1222_1359@marca.com
-DTSTAMP:20260627T233000Z
-DTSTART:20260627T233000Z
-DTEND:20260628T013000Z
-SUMMARY:🇨🇩 R.D. del Congo - 🇺🇿 Uzbekistán | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-LOCATION:Atlanta Stadium
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Recordatorio de Partido
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:01_0117_20260627_832_359@marca.com
 DTSTAMP:20260627T233000Z
 DTSTART:20260627T233000Z
@@ -1050,6 +1035,21 @@ SUMMARY:🇨🇴 Colombia - 🇵🇹 Portugal | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio de Partido
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:01_0117_20260627_1222_1359@marca.com
+DTSTAMP:20260627T233000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:🇨🇩 R.D. del Congo - 🇺🇿 Uzbekistán | DAZN
+DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+LOCATION:Atlanta Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY

@@ -611,9 +611,9 @@ UID:01_0117_20260622_632_515@marca.com
 DTSTAMP:20260622T170000Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-SUMMARY:🇦🇷 Argentina - 🇦🇹 Austria | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇦🇷 Argentina 2-0 🇦🇹 Austria
+DESCRIPTION:🏆 🇦🇷 Argentina revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/22/messi-derrota-austria-doblete-historico-clasifica-argentina.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/22/messi-derrota-austria-doblete-historico-clasifica-argentina.html
 LOCATION:Dallas Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -626,9 +626,9 @@ UID:01_0117_20260622_368_1800@marca.com
 DTSTAMP:20260622T210000Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-SUMMARY:🇫🇷 Francia - 🇮🇶 Iraq | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇫🇷 Francia 3-0 🇮🇶 Iraq
+DESCRIPTION:🏆 🇫🇷 Francia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/23/mbappe-tormenta.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/23/mbappe-tormenta.html
 LOCATION:Philadelphia Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -641,9 +641,9 @@ UID:01_0117_20260623_363_1226@marca.com
 DTSTAMP:20260623T000000Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-SUMMARY:🇳🇴 Noruega - 🇸🇳 Senegal | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇳🇴 Noruega 3-2 🇸🇳 Senegal
+DESCRIPTION:🏆 🇳🇴 Noruega revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/23/vikingos-haaland-reman-freno.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/23/vikingos-haaland-reman-freno.html
 LOCATION:New York New Jersey Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -656,9 +656,9 @@ UID:01_0117_20260623_1843_1215@marca.com
 DTSTAMP:20260623T030000Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-SUMMARY:🇯🇴 Jordania - 🇩🇿 Argelia | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇯🇴 Jordania 1-2 🇩🇿 Argelia
+DESCRIPTION:🏆 🇩🇿 Argelia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/23/resiliencia-jordana-suficiente-detener-argelia.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/23/resiliencia-jordana-suficiente-detener-argelia.html
 LOCATION:San Francisco Bay Area Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1027,21 +1027,6 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260627_832_359@marca.com
-DTSTAMP:20260627T233000Z
-DTSTART:20260627T233000Z
-DTEND:20260628T013000Z
-SUMMARY:🇨🇴 Colombia - 🇵🇹 Portugal | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-LOCATION:Miami Stadium
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Recordatorio de Partido
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:01_0117_20260627_1222_1359@marca.com
 DTSTAMP:20260627T233000Z
 DTSTART:20260627T233000Z
@@ -1050,6 +1035,21 @@ SUMMARY:🇨🇩 R.D. del Congo - 🇺🇿 Uzbekistán | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio de Partido
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:01_0117_20260627_832_359@marca.com
+DTSTAMP:20260627T233000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:🇨🇴 Colombia - 🇵🇹 Portugal | La 1
+DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+LOCATION:Miami Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -1297,11 +1297,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260703_23505_1923@marca.com
+UID:01_0117_20260703_632_1923@marca.com
 DTSTAMP:20260703T220000Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SUMMARY:🔜 1º J - 🔜 2º H | Marca Mundial 2026
+SUMMARY:🇦🇷 Argentina - 🔜 2º H | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium

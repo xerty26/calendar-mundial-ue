@@ -1196,9 +1196,9 @@ UID:01_0117_20260701_114_1222@marca.com
 DTSTAMP:20260701T160000Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇨🇩 R.D. del Congo | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 2-1 🇨🇩 R.D. del Congo
+DESCRIPTION:🏆 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/01/kane-gordon.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/01/kane-gordon.html
 LOCATION:Atlanta Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1211,9 +1211,9 @@ UID:01_0117_20260701_360_1226@marca.com
 DTSTAMP:20260701T200000Z
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SUMMARY:🇧🇪 Bélgica - 🇸🇳 Senegal | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇧🇪 Bélgica 3-2 🇸🇳 Senegal
+DESCRIPTION:🏆 🇧🇪 Bélgica revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/02/tielemans-completa-remontada-belga-autentica-locura.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/02/tielemans-completa-remontada-belga-autentica-locura.html
 LOCATION:Seattle Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1226,9 +1226,9 @@ UID:01_0117_20260702_596_537@marca.com
 DTSTAMP:20260702T000000Z
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-SUMMARY:🇺🇸 Estados Unidos - 🇧🇦 Bosnia Herzegovina | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇺🇸 Estados Unidos 2-0 🇧🇦 Bosnia Herzegovina
+DESCRIPTION:🏆 🇺🇸 Estados Unidos revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/02/balogun-tillman-mantienen-sueno-americano.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/02/balogun-tillman-mantienen-sueno-americano.html
 LOCATION:San Francisco Bay Area Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1372,11 +1372,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260706_659_23523@marca.com
+UID:01_0117_20260706_659_114@marca.com
 DTSTAMP:20260706T000000Z
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-SUMMARY:🇲🇽 México - 🔜 G. 1/16 8 | Marca Mundial 2026
+SUMMARY:🇲🇽 México - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Mexico City Stadium
@@ -1402,11 +1402,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260707_23524_23525@marca.com
+UID:01_0117_20260707_596_360@marca.com
 DTSTAMP:20260707T000000Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-SUMMARY:🔜 G. 1/16 9 - 🔜 G. 1/16 10 | Marca Mundial 2026
+SUMMARY:🇺🇸 Estados Unidos - 🇧🇪 Bélgica | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Seattle Stadium

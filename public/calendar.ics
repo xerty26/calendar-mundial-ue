@@ -967,21 +967,6 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260627_1225_1042@marca.com
-DTSTAMP:20260627T030000Z
-DTSTART:20260627T030000Z
-DTEND:20260627T050000Z
-SUMMARY:🇪🇬 Egipto 1-1 🇮🇷 Irán
-DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/27/var-indulta-faraones-deja-limbo-iran.html
-URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/27/var-indulta-faraones-deja-limbo-iran.html
-LOCATION:Seattle Stadium
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Recordatorio de Partido
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:01_0117_20260627_1804_360@marca.com
 DTSTAMP:20260627T030000Z
 DTSTART:20260627T030000Z
@@ -990,6 +975,21 @@ SUMMARY:🇳🇿 Nueva Zelanda 1-5 🇧🇪 Bélgica
 DESCRIPTION:🏆 🇧🇪 Bélgica revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/27/trossard-salva-papeleta-belga-clasifica-primera-grupo.html
 URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/27/trossard-salva-papeleta-belga-clasifica-primera-grupo.html
 LOCATION:BC Place Vancouver
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio de Partido
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:01_0117_20260627_1225_1042@marca.com
+DTSTAMP:20260627T030000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:🇪🇬 Egipto 1-1 🇮🇷 Irán
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/27/var-indulta-faraones-deja-limbo-iran.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/27/var-indulta-faraones-deja-limbo-iran.html
+LOCATION:Seattle Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -1027,21 +1027,6 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260627_832_359@marca.com
-DTSTAMP:20260627T233000Z
-DTSTART:20260627T233000Z
-DTEND:20260628T013000Z
-SUMMARY:🇨🇴 Colombia 0-0 🇵🇹 Portugal
-DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/28/empate-sabor-oro-cafeteros-portugal-camino-dificil.html
-URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/28/empate-sabor-oro-cafeteros-portugal-camino-dificil.html
-LOCATION:Miami Stadium
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Recordatorio de Partido
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:01_0117_20260627_1222_1359@marca.com
 DTSTAMP:20260627T233000Z
 DTSTART:20260627T233000Z
@@ -1050,6 +1035,21 @@ SUMMARY:🇨🇩 R.D. del Congo 3-1 🇺🇿 Uzbekistán
 DESCRIPTION:🏆 🇨🇩 R.D. del Congo revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/28/leopardos-rugen.html
 URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/28/leopardos-rugen.html
 LOCATION:Atlanta Stadium
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio de Partido
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:01_0117_20260627_832_359@marca.com
+DTSTAMP:20260627T233000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:🇨🇴 Colombia 0-0 🇵🇹 Portugal
+DESCRIPTION:🏆 undefined  revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/06/28/empate-sabor-oro-cafeteros-portugal-camino-dificil.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/06/28/empate-sabor-oro-cafeteros-portugal-camino-dificil.html
+LOCATION:Miami Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -1286,9 +1286,9 @@ UID:01_0117_20260703_575_1225@marca.com
 DTSTAMP:20260703T180000Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-SUMMARY:🇦🇺 Australia - 🇪🇬 Egipto | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇦🇺 Australia 1-1 🇪🇬 Egipto
+DESCRIPTION:🏆 🇪🇬 Egipto revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/03/egipto-monta-ola.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/03/egipto-monta-ola.html
 LOCATION:Dallas Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1301,9 +1301,9 @@ UID:01_0117_20260703_632_1529@marca.com
 DTSTAMP:20260703T220000Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SUMMARY:🇦🇷 Argentina - 🇨🇻 Cabo Verde | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇦🇷 Argentina 3-2 🇨🇻 Cabo Verde
+DESCRIPTION:🏆 🇦🇷 Argentina revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/04/prorroga-salva-argentina-milagro-mundial-cabo-verde.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/04/prorroga-salva-argentina-milagro-mundial-cabo-verde.html
 LOCATION:Miami Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1316,9 +1316,9 @@ UID:01_0117_20260704_832_1219@marca.com
 DTSTAMP:20260704T013000Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SUMMARY:🇨🇴 Colombia - 🇬🇭 Ghana | DAZN
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇨🇴 Colombia 1-0 🇬🇭 Ghana
+DESCRIPTION:🏆 🇨🇴 Colombia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/04/colombia-juega-sufre-ghana-estrellas-negras.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/04/colombia-juega-sufre-ghana-estrellas-negras.html
 LOCATION:Kansas City Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1331,9 +1331,9 @@ UID:01_0117_20260704_597_1057@marca.com
 DTSTAMP:20260704T170000Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-SUMMARY:🇨🇦 Canadá - 🇲🇦 Marruecos | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇨🇦 Canadá 0-3 🇲🇦 Marruecos
+DESCRIPTION:🏆 🇲🇦 Marruecos revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/04/marruecos-ounahi-brahim-despiden-primera-anfitriona.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/04/marruecos-ounahi-brahim-despiden-primera-anfitriona.html
 LOCATION:Houston Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1346,9 +1346,9 @@ UID:01_0117_20260704_835_368@marca.com
 DTSTAMP:20260704T210000Z
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-SUMMARY:🇵🇾 Paraguay - 🇫🇷 Francia | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇵🇾 Paraguay 0-1 🇫🇷 Francia
+DESCRIPTION:🏆 🇫🇷 Francia revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/05/mbappe-certifica-resultado-natural.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/05/mbappe-certifica-resultado-natural.html
 LOCATION:Philadelphia Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1361,9 +1361,9 @@ UID:01_0117_20260705_614_363@marca.com
 DTSTAMP:20260705T200000Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-SUMMARY:🇧🇷 Brasil - 🇳🇴 Noruega | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇧🇷 Brasil 1-2 🇳🇴 Noruega
+DESCRIPTION:🏆 🇳🇴 Noruega revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/06/haaland-decreta-dia-orgullo-vikingo.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/06/haaland-decreta-dia-orgullo-vikingo.html
 LOCATION:New York New Jersey Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1373,12 +1373,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:01_0117_20260706_659_114@marca.com
-DTSTAMP:20260706T000000Z
-DTSTART:20260706T000000Z
-DTEND:20260706T020000Z
-SUMMARY:🇲🇽 México - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+DTSTAMP:20260706T010000Z
+DTSTART:20260706T010000Z
+DTEND:20260706T030000Z
+SUMMARY:🇲🇽 México 2-3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DESCRIPTION:🏆 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/06/colmillo-bellingham-rompe-sueno-mexicano.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/06/colmillo-bellingham-rompe-sueno-mexicano.html
 LOCATION:Mexico City Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1417,11 +1417,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260707_23529_23531@marca.com
+UID:01_0117_20260707_632_1225@marca.com
 DTSTAMP:20260707T160000Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-SUMMARY:🔜 G. 1/16 14 - 🔜 G. 1/16 16 | Marca Mundial 2026
+SUMMARY:🇦🇷 Argentina - 🇪🇬 Egipto | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium
@@ -1432,11 +1432,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260707_497_23530@marca.com
+UID:01_0117_20260707_497_832@marca.com
 DTSTAMP:20260707T200000Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-SUMMARY:🇨🇭 Suiza - 🔜 G. 1/16 15 | Marca Mundial 2026
+SUMMARY:🇨🇭 Suiza - 🇨🇴 Colombia | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:BC Place Vancouver
@@ -1447,11 +1447,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260709_14202_14203@marca.com
+UID:01_0117_20260709_368_1057@marca.com
 DTSTAMP:20260709T200000Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-SUMMARY:🔜 G. octavos 1 - 🔜 G. octavos 2 | Marca Mundial 2026
+SUMMARY:🇫🇷 Francia - 🇲🇦 Marruecos | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Boston Stadium
@@ -1477,11 +1477,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260711_14204_14205@marca.com
+UID:01_0117_20260711_363_114@marca.com
 DTSTAMP:20260711T210000Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SUMMARY:🔜 G. octavos 3 - 🔜 G. octavos 4 | Marca Mundial 2026
+SUMMARY:🇳🇴 Noruega - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium

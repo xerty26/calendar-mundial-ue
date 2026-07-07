@@ -1391,9 +1391,9 @@ UID:01_0117_20260706_359_118@marca.com
 DTSTAMP:20260706T190000Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-SUMMARY:🇵🇹 Portugal - 🇪🇸 España | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇵🇹 Portugal 0-1 🇪🇸 España
+DESCRIPTION:🏆 🇪🇸 España revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/06/bicho-merino.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/06/bicho-merino.html
 LOCATION:Dallas Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1406,9 +1406,9 @@ UID:01_0117_20260707_596_360@marca.com
 DTSTAMP:20260707T000000Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-SUMMARY:🇺🇸 Estados Unidos - 🇧🇪 Bélgica | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇺🇸 Estados Unidos 1-4 🇧🇪 Bélgica
+DESCRIPTION:🏆 🇧🇪 Bélgica revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/07/belgica-acaba-trumpas-cita-espana-cuartos.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/07/belgica-acaba-trumpas-cita-espana-cuartos.html
 LOCATION:Seattle Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1462,11 +1462,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260710_14206_14207@marca.com
+UID:01_0117_20260710_118_360@marca.com
 DTSTAMP:20260710T190000Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-SUMMARY:🔜 G. octavos 5 - 🔜 G. octavos 6 | Marca Mundial 2026
+SUMMARY:🇪🇸 España - 🇧🇪 Bélgica | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Los Angeles Stadium

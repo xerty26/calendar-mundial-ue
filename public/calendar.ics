@@ -1421,9 +1421,9 @@ UID:01_0117_20260707_632_1225@marca.com
 DTSTAMP:20260707T160000Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-SUMMARY:🇦🇷 Argentina - 🇪🇬 Egipto | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇦🇷 Argentina 3-2 🇪🇬 Egipto
+DESCRIPTION:🏆 🇦🇷 Argentina revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/07/argentina-salva-increible-match-ball-remontando-0-2-14-minutos.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/07/argentina-salva-increible-match-ball-remontando-0-2-14-minutos.html
 LOCATION:Atlanta Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1436,9 +1436,9 @@ UID:01_0117_20260707_497_832@marca.com
 DTSTAMP:20260707T200000Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-SUMMARY:🇨🇭 Suiza - 🇨🇴 Colombia | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇨🇭 Suiza 0-0 🇨🇴 Colombia
+DESCRIPTION:🏆 🇨🇭 Suiza revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/08/suiza-llega-puntual-cita-aregentina-pone-sueno-colombiano.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/08/suiza-llega-puntual-cita-aregentina-pone-sueno-colombiano.html
 LOCATION:BC Place Vancouver
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1451,7 +1451,7 @@ UID:01_0117_20260709_368_1057@marca.com
 DTSTAMP:20260709T200000Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-SUMMARY:🇫🇷 Francia - 🇲🇦 Marruecos | Marca Mundial 2026
+SUMMARY:🇫🇷 Francia - 🇲🇦 Marruecos | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Boston Stadium
@@ -1466,7 +1466,7 @@ UID:01_0117_20260710_118_360@marca.com
 DTSTAMP:20260710T190000Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-SUMMARY:🇪🇸 España - 🇧🇪 Bélgica | Marca Mundial 2026
+SUMMARY:🇪🇸 España - 🇧🇪 Bélgica | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Los Angeles Stadium
@@ -1481,7 +1481,7 @@ UID:01_0117_20260711_363_114@marca.com
 DTSTAMP:20260711T210000Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SUMMARY:🇳🇴 Noruega - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Marca Mundial 2026
+SUMMARY:🇳🇴 Noruega - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium
@@ -1492,11 +1492,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260712_14208_14209@marca.com
+UID:01_0117_20260712_632_497@marca.com
 DTSTAMP:20260712T010000Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-SUMMARY:🔜 G. octavos 7 - 🔜 G. octavos 8 | Marca Mundial 2026
+SUMMARY:🇦🇷 Argentina - 🇨🇭 Suiza | DAZN
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Kansas City Stadium

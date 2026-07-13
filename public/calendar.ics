@@ -1466,9 +1466,9 @@ UID:01_0117_20260710_118_360@marca.com
 DTSTAMP:20260710T190000Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-SUMMARY:🇪🇸 España - 🇧🇪 Bélgica | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇪🇸 España 2-1 🇧🇪 Bélgica
+DESCRIPTION:🏆 🇪🇸 España revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/10/superheroe-mikel-merino.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/10/superheroe-mikel-merino.html
 LOCATION:Los Angeles Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1481,9 +1481,9 @@ UID:01_0117_20260711_363_114@marca.com
 DTSTAMP:20260711T210000Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SUMMARY:🇳🇴 Noruega - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇳🇴 Noruega 1-2 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+DESCRIPTION:🏆 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/12/marina-real-inglaterra-hunde-barco-vikingo.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/12/marina-real-inglaterra-hunde-barco-vikingo.html
 LOCATION:Miami Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1496,9 +1496,9 @@ UID:01_0117_20260712_632_497@marca.com
 DTSTAMP:20260712T010000Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-SUMMARY:🇦🇷 Argentina - 🇨🇭 Suiza | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇦🇷 Argentina 3-1 🇨🇭 Suiza
+DESCRIPTION:🏆 🇦🇷 Argentina revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/12/golazo-julian-prorroga-mete-argentina-semis-suiza-10.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/12/golazo-julian-prorroga-mete-argentina-semis-suiza-10.html
 LOCATION:Kansas City Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1507,11 +1507,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260714_368_1933@marca.com
+UID:01_0117_20260714_368_118@marca.com
 DTSTAMP:20260714T190000Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SUMMARY:🇫🇷 Francia - 🔜 G. cuartos 2 | Marca Mundial 2026
+SUMMARY:🇫🇷 Francia - 🇪🇸 España | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Dallas Stadium
@@ -1522,11 +1522,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260715_1934_1935@marca.com
+UID:01_0117_20260715_114_632@marca.com
 DTSTAMP:20260715T190000Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:🔜 G. cuartos 3 - 🔜 G. cuartos 4 | Marca Mundial 2026
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇦🇷 Argentina | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium

@@ -1511,9 +1511,9 @@ UID:01_0117_20260714_368_118@marca.com
 DTSTAMP:20260714T190000Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SUMMARY:🇫🇷 Francia - 🇪🇸 España | Marca Mundial 2026
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🇫🇷 Francia 0-2 🇪🇸 España
+DESCRIPTION:🏆 🇪🇸 España revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/14/show-inolvidable-espana.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/14/show-inolvidable-espana.html
 LOCATION:Dallas Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1526,7 +1526,7 @@ UID:01_0117_20260715_114_632@marca.com
 DTSTAMP:20260715T190000Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇦🇷 Argentina | Marca Mundial 2026
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇦🇷 Argentina | La 1
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Atlanta Stadium
@@ -1537,11 +1537,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260718_1938_1939@marca.com
+UID:01_0117_20260718_368_1939@marca.com
 DTSTAMP:20260718T210000Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-SUMMARY:🔜 P. 1ª semifinal - 🔜 P. 2ª semifinal | Marca Mundial 2026
+SUMMARY:🇫🇷 Francia - 🔜 P. 2ª semifinal | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium
@@ -1552,11 +1552,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260719_1936_1937@marca.com
+UID:01_0117_20260719_118_1937@marca.com
 DTSTAMP:20260719T190000Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-SUMMARY:🔜 G. 1ª semifinal - 🔜 G. 2ª semifinal | Marca Mundial 2026
+SUMMARY:🇪🇸 España - 🔜 G. 2ª semifinal | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:New York New Jersey Stadium

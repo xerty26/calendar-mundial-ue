@@ -1526,9 +1526,9 @@ UID:01_0117_20260715_114_632@marca.com
 DTSTAMP:20260715T190000Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - 🇦🇷 Argentina | La 1
-DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
-URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 1-2 🇦🇷 Argentina
+DESCRIPTION:🏆 🇦🇷 Argentina revisa las estadísticas en MARCA: https://www.marca.com/futbol/mundial/cronica/2026/07/15/argentina-machaca-inglaterra-siete-minutos-habra-finalissima.html
+URL;VALUE=URI:https://www.marca.com/futbol/mundial/cronica/2026/07/15/argentina-machaca-inglaterra-siete-minutos-habra-finalissima.html
 LOCATION:Atlanta Stadium
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -1537,11 +1537,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260718_368_1939@marca.com
+UID:01_0117_20260718_368_114@marca.com
 DTSTAMP:20260718T210000Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-SUMMARY:🇫🇷 Francia - 🔜 P. 2ª semifinal | Marca Mundial 2026
+SUMMARY:🇫🇷 Francia - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:Miami Stadium
@@ -1552,11 +1552,11 @@ DESCRIPTION:Recordatorio de Partido
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:01_0117_20260719_118_1937@marca.com
+UID:01_0117_20260719_118_632@marca.com
 DTSTAMP:20260719T190000Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-SUMMARY:🇪🇸 España - 🔜 G. 2ª semifinal | Marca Mundial 2026
+SUMMARY:🇪🇸 España - 🇦🇷 Argentina | Marca Mundial 2026
 DESCRIPTION:Sigue la narración en directo y el minuto a minuto en MARCA: https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 URL;VALUE=URI:https://www.marca.com/futbol/mundial.html?intcmp=MENUMIGA&s_kw=noticias
 LOCATION:New York New Jersey Stadium
